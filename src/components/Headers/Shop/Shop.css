@@ -1,0 +1,20 @@
+
+.shop_area{
+}
+.shop_container{
+    display: flex;
+    width: 100%;
+}
+.shop_container .Shop_item{
+    width: 80%;
+    border-right: 1px solid #ddd;
+
+}
+.shop_container .order_summary_container{
+    width: 20%;
+    padding-left: 10px;
+}
+
+button{
+    cursor: pointer;
+}

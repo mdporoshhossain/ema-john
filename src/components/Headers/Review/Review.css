@@ -1,0 +1,10 @@
+.review_page{
+    display: flex;
+    padding: 10px 50px;
+}
+.prodact_container{
+    width: 70%;
+}
+.cart_container{
+    width: 30%;
+}

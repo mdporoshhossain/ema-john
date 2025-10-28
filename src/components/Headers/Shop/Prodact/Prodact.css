@@ -1,0 +1,7 @@
+.prodactItem{
+    display: flex;
+}
+button.add_to_cart{
+    background-color: #fd9002;
+    padding: 5px 10px;
+}
